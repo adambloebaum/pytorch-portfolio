@@ -1,2 +1,8 @@
 # pytorch-portfolio
-A collection of short projects using PyTorch
+A collection of academic projects using PyTorch
+
+## iris classification
+
+## mnist classification
+
+## fashion mnist classification
