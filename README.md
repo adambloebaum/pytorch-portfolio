@@ -6,3 +6,9 @@ A collection of academic projects using PyTorch
 ## mnist classification
 
 ## fashion mnist classification
+
+## text generator
+
+## stock prediction
+
+## language translation
