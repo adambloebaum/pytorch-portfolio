@@ -13,5 +13,8 @@ A convolutional neural network that performs classification on fashion from the 
 ## text generator
 A recurrent neural network that generates Sherlock Holmes style sequence of texts from Sherlock Holmes books.
 
+## stock prediction
+An Encoder-Decoder recurrent neural network that predicts 100 days of a stock's value.
+
 ## language translation
 A Sequence to Sequence Transformer model that translates German into English.
