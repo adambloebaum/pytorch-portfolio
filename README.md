@@ -1,5 +1,5 @@
 # pytorch-portfolio
-a collection of academic projects using PyTorch
+a collection of projects using PyTorch
 
 ## iris classification
 a single hidden layer neural network that performs regression on iris datasets
