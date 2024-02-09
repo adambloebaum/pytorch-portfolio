@@ -1,4 +1,4 @@
-# pytorch-portfolio
+# pytorchy
 a collection of projects using PyTorch
 
 ## iris classification
