@@ -1,5 +1,5 @@
 # pytorchy
-a collection of academic projects using PyTorch
+a collection of academic projects using pytorch
 
 ## iris classification
 a single hidden layer neural network that performs regression on iris datasets
