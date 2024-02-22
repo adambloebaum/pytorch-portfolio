@@ -1,4 +1,4 @@
-# pytorchy
+# torchy
 
 pytorch models from academic projects
 
