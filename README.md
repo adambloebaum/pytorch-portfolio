@@ -27,7 +27,6 @@ Each project demonstrates key features of PyTorch and machine learning, such as 
 - NumPy
 - Matplotlib (for data visualization)
 - Pandas (for data handling in some projects)
-- Other dependencies may vary per project.
 
 ## Configuration
 
